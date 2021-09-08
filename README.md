@@ -1,5 +1,4 @@
 # Hello-world
-#python
-write " hello world"
-print('hello world')
+
+write a  "hello world"
 
